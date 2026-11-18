@@ -29,3 +29,4 @@ lib/Box2d and lib/SFML and src/main.cpp added
 - Add it to res/fonts 
 - Set-up main.cpp with the game loop structure outlined in lab 2 (Pong 1) - init, update, render, clean, main 
 - Compile a basic mentu title showing "Football Combat"
+- add run.sh for my local dev work and run.bat (windows) for members of the team who are developing on windows to speed up running the game (will delete run.sh before submission)
